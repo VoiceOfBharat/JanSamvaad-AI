@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# JanSamvaad AI 🇮🇳
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## AI-Powered Citizen Grievance Redressal Platform
 
-## Available Scripts
+JanSamvaad AI is a full-stack web application designed to help Indian citizens submit government complaints easily despite language barriers. It uses AI to translate, categorize, and streamline grievances, making the system faster, transparent, and accessible.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚩 Problem Statement
+Many citizens face difficulties due to:
+- Language barriers (Hindi / Marathi vs English portals)
+- Complex government websites
+- Manual complaint categorization
+- Lack of transparency in complaint status
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💡 Solution
+JanSamvaad AI solves this by:
+- Allowing **text & voice-based complaints**
+- Supporting **Hindi, Marathi & English**
+- Automatically **translating & categorizing complaints using AI**
+- Providing **real-time complaint tracking**
+- Offering a **secure authority dashboard**
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 👤 Citizen Portal Features
+- Secure Sign Up & Login
+- Multilingual UI (English / Hindi / Marathi)
+- Voice & Text complaint submission
+- Optional photo upload
+- Complaint status tracking
+- AI Assistant chatbot
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🏛️ Authority Dashboard
+- Secure role-based login
+- View translated complaints in English
+- AI-based categorization
+- Filter by department, pincode & status
+- Update complaint status
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🤖 AI Capabilities
+- Voice → Text
+- Language Translation
+- Complaint Categorization
+- AI Chat Assistant
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Tech Stack
+**Frontend:** React / Next.js  
+**Backend:** Node.js / Express  
+**Database:** MongoDB / Supabase  
+**AI:** DeepSeek API  
+**Auth:** JWT / Supabase Auth  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 How to Run Locally
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Frontend
+```bash
+cd frontend
+npm install
+npm start
